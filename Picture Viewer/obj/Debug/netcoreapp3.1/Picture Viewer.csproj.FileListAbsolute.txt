@@ -1,0 +1,15 @@
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\bin\Debug\netcoreapp3.1\Picture Viewer.exe
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\bin\Debug\netcoreapp3.1\Picture Viewer.deps.json
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\bin\Debug\netcoreapp3.1\Picture Viewer.runtimeconfig.json
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\bin\Debug\netcoreapp3.1\Picture Viewer.runtimeconfig.dev.json
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\bin\Debug\netcoreapp3.1\Picture Viewer.dll
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\bin\Debug\netcoreapp3.1\Picture Viewer.pdb
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.csprojAssemblyReference.cache
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.AssemblyInfoInputs.cache
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.AssemblyInfo.cs
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.dll
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.pdb
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture Viewer.genruntimeconfig.cache
+C:\Users\TheGenius\source\repos\Picture Viewer\Picture Viewer\obj\Debug\netcoreapp3.1\Picture_Viewer.FormPictureViewer.resources
